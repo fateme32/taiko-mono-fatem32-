@@ -27,7 +27,7 @@ End user documentation can be found at [docs.taiko.xyz](https://docs.taiko.xyz).
 
 Each package of the monorepo is well documented and includes a README.
 
-## Project structure
+## Project STR
 
 <pre>
 taiko-mono/
